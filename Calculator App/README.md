@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple calculator app designed to perform basic arithmetic operations. It provides a user-friendly interface for performing addition, subtraction, multiplication, and division.
+This calculator allows users to perform basic arithmetic operations with a sleek and intuitive user interface. Implemented features include responsive design for various screen sizes, real-time calculation updates.
 
 ## Features
 
